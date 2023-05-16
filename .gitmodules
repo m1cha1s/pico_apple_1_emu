@@ -1,0 +1,3 @@
+[submodule "apple_1_emu"]
+	path = apple_1_emu
+	url = git@github.com:m1cha1s/apple_1_emu.git
